@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447366175797",
+    "project_id": "flutter-fcm-990ac",
+    "storage_bucket": "flutter-fcm-990ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447366175797:android:30567076a939ee8bd6e57c",
+        "android_client_info": {
+          "package_name": "com.example.inversoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447366175797-k7uufa1n9odir1316lv8d5g72fub04q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5P1DHyN_IRf93mX8M_niYgEGZJJPqRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447366175797-k7uufa1n9odir1316lv8d5g72fub04q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
